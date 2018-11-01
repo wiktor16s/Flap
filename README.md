@@ -6,8 +6,8 @@ This is Flap - Game written in JS using Phaser 3 and cordova
 Its simple: dodge contact with red wall on right.
 
 # Control:
-It just UP Arrow or left mouse button, or tap your smartphone`s screen
-another working buttons for example left and right arrows are just for debugging.
+It just UP Arrow or left mouse button, or tap your smartphone`s screen.
+Another working buttons for example left and right arrows are just for debugging.
 
 # commands:
 
