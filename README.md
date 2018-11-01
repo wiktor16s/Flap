@@ -11,6 +11,8 @@ Another working buttons for example left and right arrows are just for debugging
 
 # commands:
 
+in www folder
+
 yarn install
 cordova run browser
 
